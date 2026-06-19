@@ -1,4 +1,16 @@
-# my projects
-My front-end learning journey where I practice HTML, CSS, and JavaScript step by step.
+Assignment 1 :
 
-This repository includes small projects, exercises, and my progress while learning web development 💻✨
+This is my first web development project.
+
+Description :
+
+This project was created using HTML and CSS. It demonstrates the basic concepts of web page structure, styling, and layout design that I have learned so far.
+
+Technologies Used :
+	•	HTML5
+	•	CSS3
+
+Author :
+
+Melina
+
